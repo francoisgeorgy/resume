@@ -1,16 +1,16 @@
 {
-    "name": "François Georgy",
+    "name": "Your Name",
     "meta": {
         "format": "FRESH@0.6.0",
         "version": "0.1.0"
     },
     "info": {
-        "label": "Software Engineer",
+        "label": "Your Profession",
         "brief": "A brief description of yourself as a candidate that appears in some résumé themes. You may use **Markdown** and/or <strong>HTML</strong> formatting here including [links](https://en.wikipedia.org/wiki/Special:Random) or stick to plain text.",
         "image": ""
     },
     "contact": {
-        "website": "http://studiocode.com",
+        "website": "http://your-website.com",
         "phone": "1-999-999-9999",
         "email": "your-email@your-website.com",
         "other": []
